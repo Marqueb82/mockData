@@ -8,7 +8,7 @@
       "description" : "Fairview new deal",
       "status" : "processed"
     },
-	 {
+    {
       "jobId" : 2,
       "submittedPath" : "\\tr-someserver\testFolder2",
       "user" : "Manoj K",
@@ -16,7 +16,7 @@
       "description" : "Fairview new deal",
       "status" : "not started"
     },
-	{
+    {
       "jobId" : 3,
       "submittedPath" : "\\tr-someserver\testFolder3",
       "user" : "Manoj K",
