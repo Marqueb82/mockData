@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "jobId" : 1,
+      "id" : 1,
       "submittedPath" : "\\tr-someserver\testFolder",
       "user" : "Manoj K",
       "timeStamp" : "11/18/2020",
@@ -9,7 +9,7 @@
       "status" : "processed"
     },
     {
-      "jobId" : 2,
+      "id" : 2,
       "submittedPath" : "\\tr-someserver\testFolder2",
       "user" : "Manoj K",
       "timeStamp" : "11/18/2020",
@@ -17,7 +17,7 @@
       "status" : "not started"
     },
     {
-      "jobId" : 3,
+      "id" : 3,
       "submittedPath" : "\\tr-someserver\testFolder3",
       "user" : "Manoj K",
       "timeStamp" : "11/18/2020",
