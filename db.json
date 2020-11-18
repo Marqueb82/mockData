@@ -1,28 +1,28 @@
 {
   "jobs": [
     {
-      "job id" : 1,
-	  "submittedPath" : "\\tr-someserver\testFolder",
+      "jobId" : 1,
+      "submittedPath" : "\\tr-someserver\testFolder",
       "user" : "Manoj K",
-	  "timeStamp" : "11/18/2020",
-	  "description" : "Fairview new deal",
-	  "status" : "processed"
+      "timeStamp" : "11/18/2020",
+      "description" : "Fairview new deal",
+      "status" : "processed"
     },
 	 {
-      "job id" : 2,
-	  "submittedPath" : "\\tr-someserver\testFolder2",
+      "jobId" : 2,
+      "submittedPath" : "\\tr-someserver\testFolder2",
       "user" : "Manoj K",
-	  "timeStamp" : "11/18/2020",
-	  "description" : "Fairview new deal",
-	  "status" : "not started"
+      "timeStamp" : "11/18/2020",
+      "description" : "Fairview new deal",
+      "status" : "not started"
     },
 	{
-      "job id" : 3,
-	  "submittedPath" : "\\tr-someserver\testFolder3",
+      "jobId" : 3,
+      "submittedPath" : "\\tr-someserver\testFolder3",
       "user" : "Manoj K",
-	  "timeStamp" : "11/18/2020",
-	  "description" : "Fairview new deal",
-	  "status" : "processing"
+      "timeStamp" : "11/18/2020",
+      "description" : "Fairview new deal",
+      "status" : "processing"
     }
    ]
 	
